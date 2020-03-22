@@ -5,7 +5,7 @@ import App from "@control-ui/layouts/es/App";
 import {routes} from "./routes";
 import {Layout} from "@control-ui/layouts/es/default/Layout";
 import {CustomDrawer, CustomFooter, CustomHeader} from "./component/Layout";
-import {LoadingCircular} from "@control-ui/core/es/LoadingCircular";
+import {LoadingCircular} from "@control-ui/core/es/Loading/LoadingCircular";
 
 const Provider = ({children}) => (
     <>

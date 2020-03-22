@@ -1,7 +1,7 @@
 import React from "react";
-import {ListItemLink} from "@control-ui/core/es/Link";
+import {ListItemLink} from "@control-ui/core/es/List/LinkList";
 import {useRouter} from "@control-ui/core/es/Provider/RouterProvider";
-import {NavListNested, NavList} from "@control-ui/core/es/NavList";
+import {NavListNested, NavList} from "@control-ui/core/es/Menu/NavList";
 
 export default ({dense = true, closeOnClick}) => {
     const {routes} = useRouter();

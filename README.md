@@ -1,4 +1,35 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Control-UI App
+
+[**Control-UI**](https://control-ui.bemit.codes) app bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+[![Run on CodeSandbox](https://img.shields.io/badge/run%20on%20CodeSandbox-blue?labelColor=fff&logoColor=505050&style=for-the-badge&logo=codesandbox)](https://codesandbox.io/s/github/control-ui/demo-app-cra/tree/master/?module=%2Fsrc%2Froutes.js)
+
+[![Clone on Repl.it](https://img.shields.io/badge/repl.it%20Clone-grey?labelColor=fff&style=for-the-badge&logo=repl.it)](https://repl.it/github/control-ui/demo-app-cra)
+
+
+Start developing your own React app:
+
+```bash
+npx create-react-app my-app --template control-ui-app
+```
+
+## License
+
+This project is free software distributed under the **MIT License**.
+
+See: [LICENSE](LICENSE).
+
+© 2020 bemit UG (haftungsbeschränkt)
+
+### Contributors
+
+By committing your code/creating a pull request to this repository you agree to release the code under the MIT License attached to the repository.
+
+***
+
+Created by [Michael Becker](https://mlbr.xyz)
+
+---
 
 ## Available Scripts
 
