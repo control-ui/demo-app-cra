@@ -1,6 +1,6 @@
 import React from 'react';
 import Loadable from 'react-loadable';
-import {LoadingCircular} from "@control-ui/core/es/Loading/LoadingCircular";
+import {LoadingCircular} from "@control-ui/kit/Loading/LoadingCircular";
 
 export const routes = {
     routes: [

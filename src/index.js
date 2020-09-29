@@ -3,10 +3,10 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import * as serviceWorker from './serviceWorker';
 import {themes} from "./theme";
-import AppLoader from "@control-ui/layouts/es/AppLoader";
+import {AppLoader} from "@control-ui/app/AppLoader";
 
 const App = AppLoader(
-    themes,
+    {themes},
     () => import('./App'),
     'Loading',
 );

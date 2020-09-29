@@ -1,6 +1,6 @@
 import React from "react";
-import {PageBox, PageContent} from "@control-ui/core/es/PageContent";
-import Head from "@control-ui/core/es/Head";
+import {PageBox, PageContent} from "@control-ui/kit/PageContent";
+import {Head} from "@control-ui/kit/Head";
 
 export default function PageMain() {
     return (

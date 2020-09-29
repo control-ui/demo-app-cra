@@ -1,11 +1,11 @@
 import React from 'react';
 import Loadable from 'react-loadable';
 import './App.css';
-import App from "@control-ui/layouts/es/App";
+import {App} from "@control-ui/app/App";
 import {routes} from "./routes";
-import {Layout} from "@control-ui/layouts/es/default/Layout";
+import {Layout} from "@control-ui/app/Layout";
 import {CustomDrawer, CustomFooter, CustomHeader} from "./component/Layout";
-import {LoadingCircular} from "@control-ui/core/es/Loading/LoadingCircular";
+import {LoadingCircular} from "@control-ui/kit/Loading/LoadingCircular";
 
 const Provider = ({children}) => (
     <>

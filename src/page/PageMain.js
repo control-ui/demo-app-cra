@@ -1,7 +1,7 @@
 import React from "react";
 import {Typography} from "@material-ui/core";
-import {PageBox, PageContent} from "@control-ui/core/es/PageContent";
-import Head from "@control-ui/core/es/Head";
+import {PageBox, PageContent} from "@control-ui/kit/PageContent";
+import {Head} from "@control-ui/kit/Head";
 import {ReactComponent as Logo} from '../logo.svg';
 
 export default function PageMain() {

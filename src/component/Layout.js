@@ -3,12 +3,12 @@ import IconButton from '@material-ui/core/IconButton';
 import {InvertColors as InvertColorsIcon} from '@material-ui/icons';
 import {Link as RouterLink} from "react-router-dom";
 import {Help} from '@material-ui/icons';
-import {AccessTooltipIcon} from "@control-ui/core/es/Tooltip";
-import {LinkIconButton} from "@control-ui/core/es/Link/LinkIconButton";
-import {Header} from "@control-ui/layouts/es/default/Header";
-import {useSwitchTheme} from "@control-ui/core/es/Provider/AppTheme";
-import {Drawer} from "@control-ui/layouts/es/default/Drawer";
-import {Footer} from "@control-ui/layouts/es/default/Footer";
+import {AccessTooltipIcon} from "@control-ui/kit/Tooltip";
+import {LinkIconButton} from "@control-ui/kit/Link/LinkIconButton";
+import {Header} from "@control-ui/app/Header";
+import {useSwitchTheme} from "@control-ui/app/AppTheme";
+import {Drawer} from "@control-ui/app/Drawer";
+import {Footer} from "@control-ui/app/Footer";
 import Nav from "./Nav";
 import {ReactComponent as Logo} from '../logo.svg';
 
